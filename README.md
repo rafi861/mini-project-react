@@ -1,1 +1,1 @@
-# mini-project-react
+# mini-project-rea
